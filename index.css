@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+#container{
+width: 960px;
+border: 1px solid black;
+margin: 0 auto;
+}
+header { 
+background-color: rgba(240, 169, 207, 0.856);
+}
+.bio {
+ display: flex;  
+}
+.namedate{
+display: flex;
+}
+p {
+ border: 1px solid rgb(119, 119, 119);
+
+}
+li {
+list-style-type: disc;
+
+}
+
+img{
+height: 200px;
+}
